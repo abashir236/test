@@ -7,4 +7,7 @@
 
 ### Tourist Attractions
 
+- Six Flags
+- Carnival
+
 ### Local Attractions 
