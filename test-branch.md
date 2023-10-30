@@ -13,3 +13,4 @@
 ### Local Attractions 
 
 - Local Restaurants
+- Coca Cola Factory
