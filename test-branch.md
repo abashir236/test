@@ -11,3 +11,5 @@
 - Carnival
 
 ### Local Attractions 
+
+- Local Restaurants
